@@ -1,5 +1,11 @@
 # Sentinel.AI — AI Monitoring Agent 🛡️
 
+Team: @Sentinel.AI¶
+Members: Ankita Shubash Patil, Mithilesh Yogesh Kolhapurkar
+Track: Enterprise Agents
+Course: 5-Day AI Agents Intensive with Google
+Date: November 2025
+
 ## About
 
 Sentinel.AI is an AI-powered monitoring agent designed to help developers automatically monitor application performance, detect issues, and simulate ticket/report creation — all powered by a generative AI model (e.g. Google Gemini).  
