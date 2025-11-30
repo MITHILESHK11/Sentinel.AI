@@ -1,10 +1,10 @@
 # Sentinel.AI — AI Monitoring Agent 🛡️
 
-Team: @Sentinel.AI¶
-Members: Ankita Shubash Patil, Mithilesh Yogesh Kolhapurkar
-Track: Enterprise Agents
-Course: 5-Day AI Agents Intensive with Google
-Date: November 2025
+Team: @Sentinel.AI
+- Members: Ankita Shubash Patil, Mithilesh Yogesh Kolhapurkar
+- Track: Enterprise Agents
+- Course: 5-Day AI Agents Intensive with Google
+- Date: November 2025
 
 ## About
 
